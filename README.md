@@ -1,4 +1,4 @@
-tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
 所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
@@ -93,29 +93,27 @@ tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵
 
 4. 随机轮换壁纸：
 
-（1）https://jianbian.chuqiuyu.tk  自制渐变简约壁纸
+（1）https://bing.img.run/rand.php
 
-（2）https://bing.img.run/rand.php
+（2）http://www.kf666888.cn/api/tvbox/img
 
-（3）http://www.kf666888.cn/api/tvbox/img
+（3）https://picsum.photos/1280/720/?blur=10
 
-（4）https://picsum.photos/1280/720/?blur=10
+（4）http://刚刚.live/图 
 
-（5）http://刚刚.live/图 
+（5）http://饭.eu.org/深色壁纸/api.php,
 
-（6）http://饭太硬.top/深色壁纸/api.php
+（6）https://www.dmoe.cc/random.php
 
-（7）https://www.dmoe.cc/random.php
+（7）https://api.btstu.cn/sjbz/zsy.php
 
-（8）https://api.btstu.cn/sjbz/zsy.php
+（8）https://api.btstu.cn/sjbz/?lx=dongman
 
-（9）https://api.btstu.cn/sjbz/?lx=dongman
+（9）http://api.btstu.cn/sjbz/?lx=meizi
 
-（10）http://api.btstu.cn/sjbz/?lx=meizi
+（10）http://api.btstu.cn/sjbz/?lx=suiji
 
-（11）http://api.btstu.cn/sjbz/?lx=suiji
-
-（12）https://pictures.catvod.eu.org/
+（11）https://pictures.catvod.eu.org/
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
