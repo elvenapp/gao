@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fm.jar;md5;4fe0a8f0284727298f73e3ff9fc4c9ab",
+"spider":"./jar/fm.jar;md5;893cbd23ebfc96b71d63c6458c2ca9c8",
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
@@ -109,9 +109,10 @@
 {"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/有声绘本网.js"},
 {"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"./lib/drpy2.min.js","recordable":0,"style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕 | 哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
+{"key":"drpy_js_哔哩影视","name":"弹幕 | 哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩影视.js"},
+{"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
 {"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/斗鱼直播.js"},
 {"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/虎牙直播.js"},
-{"key":"drpy_js_JustLive","name":"直播 | JustLive[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
 {"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/310直播.js"},
 {"key":"drpy_js_88看球","name":"体育 | 88看球[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/88看球.js"},
 {"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"./lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./js/JRKAN直播.js"},
@@ -189,7 +190,6 @@
 {"key":"drpy_js_北川影视","name":"影视 | 北川影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/北川影视.js"},
 {"key":"drpy_js_被窝电影","name":"影视 | 被窝电影[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/被窝电影.js"},
 {"key":"drpy_js_哔哩兔","name":"影视 | 哔哩兔[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩兔.js"},
-{"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/哔哩影视.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
 {"key":"drpy_js_尘落影视","name":"影视 | 尘落影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/尘落影视.js"},
 {"key":"drpy_js_楚门影院","name":"影视 | 楚门影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/楚门影院.js"},
